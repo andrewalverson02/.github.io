@@ -1,4 +1,0 @@
-<html>
-  <h1>Andrew's Portfolio</h1>
-  <img src="./img-o714.png" />
-</html>  
